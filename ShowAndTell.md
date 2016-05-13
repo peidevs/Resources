@@ -3,6 +3,10 @@
 
 This is a list from our first "Show And Tell" (aka "Check it out!") session in May 2016.
 
+### The 'Sensible Defaults'
+This is a list of tooling we've been compiling that we heartily endorse
+* [Tools of the Trade](https://docs.google.com/spreadsheets/d/1VHLvbbulAYHlmfeM-YDv9eQ2d275oHHL3_w2ky5f3yk/edit)
+
 ### Books
 
 * [Practical Electronics for Inventors](http://amzn.to/1X6lSYd)
