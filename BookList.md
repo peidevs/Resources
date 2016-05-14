@@ -5,7 +5,7 @@ This is a list of Recommended books (originally posted to the MeetUp discussion 
 
 ### General
 
-* [Clean Code] by Uncle Bob Martin (http://amzn.to/1Oqs2Rt) 
+* [Clean Code](http://amzn.to/1Oqs2Rt) by Uncle Bob Martin
 * [Code Complete 2nd ed](http://amzn.to/1TcZkQW) by Steve McConnell - Great for changing your mindset from throw-away school assignment code to readable, large-scale projects.
 * [Growing Object-Oriented Software Guided By Tests](http://amzn.to/1XqS88U) by Steve Freeman, Nat Pryce - Slightly different perspective on TDD
 * [Land the Tech Job You Love](https://pragprog.com/book/algh/land-the-tech-job-you-love) by Andy Lester - Challenges ossified rituals with respect to resumes, interviewing, etc.
