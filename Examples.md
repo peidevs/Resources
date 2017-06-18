@@ -11,6 +11,7 @@
 * [Java 8](https://github.com/peidevs/WarO_Java)
 * [Java 9](https://github.com/codetojoy/WarO_Java_9)
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
+* [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
 * [Kotlin](https://github.com/codetojoy/WarO_Kotlin)
 * [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
