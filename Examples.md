@@ -1,7 +1,6 @@
 
 ### Door Prize Picker
 
-* TODO: add links
 * [Gonzo](https://github.com/peidevs/Gonzo) (is this the correct link?)
 * [Official Scooter](https://github.com/peidevs/Scooter)
 * [Dojo/The People's Scooter](https://github.com/peidevs/Event_Resources/tree/master/scooter)
