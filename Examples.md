@@ -5,6 +5,10 @@
 * [Official Scooter](https://github.com/peidevs/Scooter)
 * [The People's Scooter](https://github.com/peidevs/Event_Resources/tree/master/scooter) in Dojo JS
 
+### Global Day of Code Retreat resources
+
+* [scaffolding projects](https://github.com/peidevs/GDCR-Scaffolding) in various languages
+
 ### War-O card game
 
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
@@ -16,8 +20,4 @@
 * [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Scala](https://github.com/peidevs/WarO_Scala)
-
-### Global Day of Code Retreat resources
-
-* [scaffolding projects](https://github.com/peidevs/GDCR-Scaffolding) in various languages
 
