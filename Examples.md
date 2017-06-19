@@ -9,7 +9,7 @@
 
 * [scaffolding projects](https://github.com/peidevs/GDCR-Scaffolding) in various languages
 
-### War-O card game
+### War-O card game exercise
 
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * [Java 8](https://github.com/peidevs/WarO_Java)
