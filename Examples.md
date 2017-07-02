@@ -1,7 +1,8 @@
 
 ### Door-Prize Picker
 
-* [Gonzo](https://github.com/peidevs/Gonzo) (is this the correct link?)
+* [Gonzo 3.0](https://github.com/swhalley/Gonzo) (TODO: confirm link)
+* [Gonzo](https://github.com/peidevs/Gonzo) (TODO: confirm link)
 * [Official Scooter](https://github.com/peidevs/Scooter)
 * [The People's Scooter](https://github.com/peidevs/Event_Resources/tree/master/scooter) in Dojo JS
 
