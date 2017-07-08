@@ -27,7 +27,7 @@
 
 ### Unique Speakers/Cat-Herders
 
-* [Kotlin](https://github.com/codetojoy/Event_Resources)
+* [Kotlin](https://github.com/codetojoy/Event_Resources/tree/master/viz)
     * [unique speakers](https://cdn.rawgit.com/codetojoy/Event_Resources/master/viz/UniqueSpeakers/speakers.html) up to JUN 2017
     * [unique cat-herders](https://cdn.rawgit.com/codetojoy/Event_Resources/master/viz/UniqueCatHerders/catherders.html) up to JUN 2017
 
