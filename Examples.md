@@ -16,8 +16,8 @@
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * [Java 8](https://github.com/peidevs/WarO_Java)
 * [Java 9](https://github.com/codetojoy/WarO_Java_9) using early-access JDK9, shell scripts for build
-* [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
-* [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
+    * [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
+    * [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
 * [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
 * [Kotlin](https://github.com/codetojoy/WarO_Kotlin)
