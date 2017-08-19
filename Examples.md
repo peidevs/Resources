@@ -22,6 +22,7 @@
 * [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
 * [Kotlin](https://github.com/codetojoy/WarO_Kotlin)
 * [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
+* [PHP](https://github.com/codetojoy/WarO_PHP) (partially implemented)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Scala](https://github.com/peidevs/WarO_Scala)
 
