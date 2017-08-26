@@ -19,9 +19,10 @@
     * [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
     * [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
-* [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
+    * [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
+    * [JavaScript with Ramda](https://github.com/codetojoy/WarO_JavaScript_Ramda) 
 * [Kotlin](https://github.com/codetojoy/WarO_Kotlin)
-* [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
+    * [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
 * [PHP](https://github.com/codetojoy/WarO_PHP) (partially implemented)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Scala](https://github.com/peidevs/WarO_Scala)
