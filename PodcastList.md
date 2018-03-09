@@ -11,3 +11,4 @@ Here are some interesting podcasts:
 * [Hanselminutes](http://hanselminutes.com/)
 * [Software Engineering Radio](http://www.se-radio.net/) 
 * [Syntax](https://syntax.fm/)
+* [Coding Blocks](https://www.codingblocks.net/)
