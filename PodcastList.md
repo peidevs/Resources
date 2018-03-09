@@ -1,12 +1,13 @@
 
 ## Intro
 
-This is a list of Recommended podcasts (originally posted to the MeetUp discussion board).
+Here are some interesting podcasts:
 
+* [Ardent Development](http://ardentdev.com/)
 * [The Changelog](https://changelog.com/podcast/)
 * [Cognicast](http://blog.cognitect.com/cognicast/)
+* [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Full Stack Radio](http://www.fullstackradio.com/)
-* [Giant Robots smashing into other Giant Robots](http://giantrobots.fm/)
 * [Hanselminutes](http://hanselminutes.com/)
-* [Software Engineering Radio](http://www.se-radio.net/) - world-class content, managed by IEEE
-
+* [Software Engineering Radio](http://www.se-radio.net/) 
+* [Syntax](https://syntax.fm/)
