@@ -16,6 +16,7 @@
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * [Java 8](https://github.com/peidevs/WarO_Java)
     * [Java 8 / OSGi](https://github.com/codetojoy/WarO_Java_OSGi)
+    * Java 8 with Spock tests [here](https://github.com/codetojoy/WarO_Java_Spock)
 * [Java 9](https://github.com/codetojoy/WarO_Java_9) using early-access JDK9, shell scripts for build
     * [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
     * [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
