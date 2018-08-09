@@ -37,14 +37,20 @@ The following are some keys to our longevity and community.
     * Of course, we welcome everyone regardless of gender, sexual orientation, religion etc. But we also try to ensure no pressure with respect to alcohol at our social events.
     * We practice these ideas on our popular Slack channels as well.
 * Outreach
+    * We are active in the community, and usually mention PEI Developers at various events (listed below).
     * Many of our members act as mentors for other organizations, such as the [PEI chapter](https://twitter.com/learningcodeyyg) of Canada Learning Code.
     * Some members advocate for Open Data by speaking for other organizations, such as the local chapter of [CIPS](http://www.cips.ca/). 
     * We have had good relations with the media, including coverage of [hackathons](http://www.cbc.ca/news/canada/prince-edward-island/data-computer-apps-open-government-1.3478962).
     * We've done unusual projects such as [PEI Landmarks](https://www.cbc.ca/news/canada/prince-edward-island/landmarks-open-data-map-1.3332428) intended to illustrate Open Data and specifically engage non-technical Islanders. A bonus: the media loves these projects.
-    * Our members often attend (and sometimes speak at) tech conferences and they are always invited to report back on their experiences.
+    * Our members often attend (and sometimes speak at) tech conferences and they are invited to report back on their experiences.
 
 ### Challenges
 
 * We'd like to see more engagement from students in local university/college. We generally have good interactions, but we want to see more students.
 * In a similar vein, there are large silos of software developers in various organizations (e.g. government). We're always looking to engage with them.
+* Burn-out. Though a "cat-herder" is encouraged to delegate tasks to other "Elders", there is always a risk for burn-out, especially for major events like hackathons. But having a large planning committee helps.
+
+### Thanks
+
+Thanks for your interest! We hope this helps.
 
