@@ -19,6 +19,8 @@ This is an informal doc in response to outreach by [Code for Canada](http://www.
     * The PEI Open Data Book Club joined groups from Ottawa and Toronto for a lighting talk at the 2016 Canadian Open Data Summit. Video [here](https://www.youtube.com/watch?v=5DiBSloGRl0&feature=youtu.be&t=3h15m37s) at 3h15m37s.
     * Invited Elections PEI to present for us in April 2018. The dialogue contributed toward their recent [Open Data Licence](http://www.gov.pe.ca/photos/original/EPEI_ODLICENCE.pdf). 
     * A catalog of [data visualizations](https://github.com/peidevs/OpenDataBookClub/blob/master/doc/LocalResources.md) intended to illustrate examples of Open Data by local organizations, such as Elections PEI and the provincial government.
+    * Carol Mayne is a senior director with the Governent of Prince Edward Island. She leads the Open Data team, and presented for us (on the [Open Government License](https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island)) in June 2016. She'll be presenting in Sept 2018 on the new Open Data [portal](https://data.princeedwardisland.ca/). 
+    * We have had [hackathons](https://www.flickr.com/photos/100794919@N05/albums/) dedicated to Open Data, particular [Open Data Day](https://en.wikipedia.org/wiki/International_Open_Data_Day) in 2016 and 2017.
 
 ### Keys to Community Building, Longevity
 
