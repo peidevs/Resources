@@ -1,7 +1,7 @@
 
 ### Intro
 
-This is an informal doc in response to outreach by Code for Canada. They asked about our group and our keys to community building.
+This is an informal doc in response to outreach by [Code for Canada](http://www.codeforcanada.org/). They asked about our group and our keys to community building.
 
 ### History
 
@@ -26,15 +26,23 @@ The following are some keys to our longevity and community.
 
 * Regular meetings. We have a tremendous commitment to having meetings, even if they are "open forums" (which is code for "we don't have any speakers and are freaking out"). This entails several logistic items, which are mundane but vital:
     * Sponsors. Though our planners donate both time and some $, we rely on sponsors for the venue. Sponsors are also vital for special events like hackathons.  
-    * Planning committee (aka "the Elders"). In 2015, we established a planning framework. e.g. every few months, we assign a "cat-herder" as a lead planner for meetings/events.
+    * Planning committee (aka "the Elders"). In 2015, we established a planning framework. e.g. every few months, we assign a "cat-herder" as a lead planner for meetings/events. We rely heavily on a dedicated Slack channel for planning.
     * We provide a platform for others. Our speakers include people from the provincial government, Elections PEI, law firms, etc.
 * Diversity. Our members have diverse backgrounds and education. e.g. Web developers, game developers, electrical engineers, Open Data advocates, AR/VR enthusiasts etc. Our presentations benefit from this.
-* Mandate
-* Slack 
-* media
-* diversity
+* Welcoming. Though we have a [mandate](http://peidevs.github.io/about/) and [code of conduct](http://peidevs.github.io/code/), we are friendly and informal.  
+    * We encourage junior developers (even high-school students!) to attend and present talks.
+    * For years, we have had door-prizes at meetings.
+    * Of course, we welcome everyone regardless of gender, sexual orientation, religion etc. But we also try to ensure no pressure with respect to alcohol at our social events.
+    * We practice these ideas on our popular Slack channels as well.
+* Outreach
+    * Many of our members act as mentors for other organizations, such as the [PEI chapter](https://twitter.com/learningcodeyyg) of Canada Learning Code.
+    * Some members advocate for Open Data by speaking for other organizations, such as the local chapter of [CIPS](http://www.cips.ca/). 
+    * We have had good relations with the media, including coverage of [hackathons](http://www.cbc.ca/news/canada/prince-edward-island/data-computer-apps-open-government-1.3478962).
+    * We've done unusual projects such as [PEI Landmarks](https://www.cbc.ca/news/canada/prince-edward-island/landmarks-open-data-map-1.3332428) intended to illustrate Open Data and specifically engage non-technical Islanders. A bonus: the media loves these projects.
+    * Our members often attend (and sometimes speak at) tech conferences and they are always invited to report back on their experiences.
 
 ### Challenges
 
-* 
+* We'd like to see more engagement from students in local university/college. We generally have good interactions, but we want to see more students.
+* In a similar vein, there are large silos of software developers in various organizations (e.g. government). We're always looking to engage with them.
 
