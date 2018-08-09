@@ -46,7 +46,7 @@ The following are some keys to our longevity and community.
     * When an organization releases Open Data, we try to use it in some way, quickly, (even a simple [data visualization](https://github.com/peidevs/OpenDataBookClub/blob/master/doc/LocalResources.md)) so that the organization can:
         * (a) know we're listening 
         * (b) see immediate ROI in their effort 
-        * (c) show their respective management that ROI. 
+        * (c) show their respective management that ROI 
         * Specific examples include [school enrolments](http://swhalley.github.io/EducationAttendance/) and [political contributions](https://peidevs.github.io/OpenData/data/Elections_PEI/contributions/2017/viz/bycity.html).
 
 ### Challenges
