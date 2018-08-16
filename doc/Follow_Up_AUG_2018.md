@@ -10,3 +10,7 @@
 * both advocates of Open Gov at municipal level:
     * [Robert Hughes](http://www.townofstratford.ca/?page_id=285), CAO of Stratford, PEI
     * [Bob Ashley](https://summerside.ca/senior_management_contact_information/bob_ashley_-_chief_administrative_office), CAO of Summerside, PEI
+
+### More Resources
+
+* I forgot to mention [Open Data Atlantic](https://www.opendata-atlantic.com/)! They are based in NB (I believe Saint John). You may want to chat with Sara Taaffe or Erin Flood ([here](https://www.opendata-atlantic.com/)).
