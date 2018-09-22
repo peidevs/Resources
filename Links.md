@@ -13,3 +13,9 @@
 * [Pending Meetups](https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md)
 * [Event repository](https://github.com/peidevs/Event_Resources)
 * [Talk Ideas](https://github.com/peidevs/Event_Resources/issues)
+
+### Projects
+
+* [Official Scooter](http://peidevs.github.io/Scooter/)
+* [The People's Scooter](https://peidevs.github.io/Event_Resources/)
+* [Our Examples](https://github.com/peidevs/Resources/blob/master/Examples.md)
