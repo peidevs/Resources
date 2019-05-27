@@ -3,6 +3,7 @@
 
 * [Gonzo](https://github.com/swhalley/Gonzo)(aka Scooter 3.0) - Forked from [peiDevs/Gonzo](https://github.com/peidevs/Gonzo)
 * [Official Scooter](https://github.com/peidevs/Scooter)
+* [Scooter Svelte](https://github.com/evanepio/scooter-svelte)
 * [The People's Scooter](https://github.com/peidevs/Event_Resources/tree/master/scooter) in Dojo JS
 
 ### Global Day of Code Retreat resources
