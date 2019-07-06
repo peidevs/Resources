@@ -12,7 +12,7 @@
 
 * [Pending Meetups](https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md)
 * [Event repository](https://github.com/peidevs/Event_Resources)
-* [Talk Ideas](https://github.com/peidevs/Event_Resources/issues)
+* [Talk Ideas](https://github.com/peidevs/Event_Resources/blob/master/TalkIdeas.md)
 
 ### Projects
 
