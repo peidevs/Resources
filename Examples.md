@@ -27,6 +27,7 @@
     * [JavaScript with Ramda](https://github.com/codetojoy/WarO_JavaScript_Ramda) 
 * [Kotlin](https://github.com/codetojoy/WarO_Kotlin)
     * [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
+* [PowerShell](https://github.com/codetojoy/WarO_PowerShell) (not idiomatic)
 * [PHP](https://github.com/codetojoy/WarO_PHP) (partially implemented)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Scala](https://github.com/peidevs/WarO_Scala)
