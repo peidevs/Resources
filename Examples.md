@@ -14,20 +14,22 @@
 ### War-O card game exercise
 
 * basic game rules [here](https://github.com/peidevs/WarO_Java/blob/master/Rules.md)
+* [C# in .NET Core](https://github.com/codetojoy/WarO_CSharp)
+    - work-in-progress, and probably not fully idiomatic
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * [Java 8](https://github.com/peidevs/WarO_Java)
-    * [Java 8 / OSGi](https://github.com/codetojoy/WarO_Java_OSGi)
-    * Java 8 with Spock tests [here](https://github.com/codetojoy/WarO_Java_Spock)
-    * Java 8 with some Java 10 syntax (e.g. `var`) [here](https://github.com/codetojoy/WarO_Java_10)
-    * Java 8 with Java 10 `var` and Java 14 `record` (preview) [here](https://github.com/codetojoy/WarO_Java_14)
+    - [Java 8 / OSGi](https://github.com/codetojoy/WarO_Java_OSGi)
+    - Java 8 with Spock tests [here](https://github.com/codetojoy/WarO_Java_Spock)
+    - Java 8 with some Java 10 syntax (e.g. `var`) [here](https://github.com/codetojoy/WarO_Java_10)
+    - Java 8 with Java 10 `var` and Java 14 `record` (preview) [here](https://github.com/codetojoy/WarO_Java_14)
 * [Java 9](https://github.com/codetojoy/WarO_Java_9) using early-access JDK9, shell scripts for build
-    * [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
-    * [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
+    - [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
+    - [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
-    * [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
-    * [JavaScript with Ramda](https://github.com/codetojoy/WarO_JavaScript_Ramda) 
+    - [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
+    - [JavaScript with Ramda](https://github.com/codetojoy/WarO_JavaScript_Ramda) 
 * [Kotlin](https://github.com/codetojoy/WarO_Kotlin)
-    * [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
+    - [Kotlin JS](https://github.com/codetojoy/WarO_Kotlin_JS)
 * [PowerShell](https://github.com/codetojoy/WarO_PowerShell) (not idiomatic)
 * [PHP](https://github.com/codetojoy/WarO_PHP) (partially implemented)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
@@ -36,6 +38,6 @@
 ### Unique Speakers/Cat-Herders
 
 * [Kotlin](https://github.com/codetojoy/Event_Resources/tree/master/viz)
-    * [unique speakers](https://cdn.rawgit.com/codetojoy/Event_Resources/master/viz/UniqueSpeakers/speakers.html) up to JUN 2017
-    * [unique cat-herders](https://cdn.rawgit.com/codetojoy/Event_Resources/master/viz/UniqueCatHerders/catherders.html) up to JUN 2017
+    - [unique speakers](https://cdn.rawgit.com/codetojoy/Event_Resources/master/viz/UniqueSpeakers/speakers.html) up to JUN 2017
+    - [unique cat-herders](https://cdn.rawgit.com/codetojoy/Event_Resources/master/viz/UniqueCatHerders/catherders.html) up to JUN 2017
 
