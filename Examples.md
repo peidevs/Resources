@@ -36,7 +36,6 @@
 * [PowerShell](https://github.com/codetojoy/WarO_PowerShell) (not idiomatic)
 * [PHP](https://github.com/codetojoy/WarO_PHP) (partially implemented)
 * [Python](https://github.com/codetojoy/WarO_Python)
-    - work-in-progress; not yet Pythonic
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Scala](https://github.com/peidevs/WarO_Scala)
 
