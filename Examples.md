@@ -37,6 +37,8 @@
 * [PHP](https://github.com/codetojoy/WarO_PHP) (partially implemented)
 * [Python](https://github.com/codetojoy/WarO_Python)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
+* [Rust](https://github.com/codetojoy/WarO_Rust)
+    - work-in-progress
 * [Scala](https://github.com/peidevs/WarO_Scala)
 
 ### Unique Speakers/Cat-Herders
