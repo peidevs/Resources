@@ -19,6 +19,8 @@
 * [COBOL](https://github.com/codetojoy/WarO_COBOL)
     - inspired by uptick re: COVID-19 pandemic
     - very much a 'toy example' and probably not idiomatic
+* [Go](https://github.com/codetojoy/WarO_Go)
+    - work-in-progress, not yet idiomatic
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * [Java 8](https://github.com/peidevs/WarO_Java)
     - [Java 8 / OSGi](https://github.com/codetojoy/WarO_Java_OSGi)
@@ -38,7 +40,6 @@
 * [Python](https://github.com/codetojoy/WarO_Python)
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Rust](https://github.com/codetojoy/WarO_Rust)
-    - work-in-progress
 * [Scala](https://github.com/peidevs/WarO_Scala)
 
 ### Unique Speakers/Cat-Herders
