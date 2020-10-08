@@ -22,14 +22,11 @@
 * [Go](https://github.com/codetojoy/WarO_Go)
     - work-in-progress, not yet idiomatic
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
-* [Java 8](https://github.com/peidevs/WarO_Java)
-    - [Java 8 / OSGi](https://github.com/codetojoy/WarO_Java_OSGi)
+* Java
+    - Java 15 with async players [here](https://github.com/codetojoy/WarO_Java_Async)
+    - Java 15 with Akka framework [here](https://github.com/codetojoy/WarO_Java_Akka)
+    - Java 8 in highly functional style [here](https://github.com/peidevs/WarO_Java)
     - Java 8 with Spock tests [here](https://github.com/codetojoy/WarO_Java_Spock)
-    - Java 8 with some Java 10 syntax (e.g. `var`) [here](https://github.com/codetojoy/WarO_Java_10)
-    - Java 8 with Java 10 `var` and Java 14 `record` (preview) [here](https://github.com/codetojoy/WarO_Java_14)
-* [Java 9](https://github.com/codetojoy/WarO_Java_9) using early-access JDK9, shell scripts for build
-    - [Java 9 / Gradle](https://github.com/codetojoy/WarO_Java_9_Gradle) using early-access JDK9, Gradle for build
-    - [Java 9 / Maven](https://github.com/codetojoy/WarO_Java_9_Maven) using early-access JDK9, Maven for build
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
     - [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
     - [JavaScript with Ramda](https://github.com/codetojoy/WarO_JavaScript_Ramda) 
