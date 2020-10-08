@@ -18,13 +18,12 @@
     - inspired by uptick re: COVID-19 pandemic
     - very much a 'toy example' and probably not idiomatic
 * [Go](https://github.com/codetojoy/WarO_Go)
-    - work-in-progress, not yet idiomatic
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * Java
-    - Java 15 with async players [here](https://github.com/codetojoy/WarO_Java_Async)
-    - Java 15 with Akka framework [here](https://github.com/codetojoy/WarO_Java_Akka)
-    - Java 8 in highly functional style [here](https://github.com/peidevs/WarO_Java)
-    - Java 8 with Spock tests [here](https://github.com/codetojoy/WarO_Java_Spock)
+    - [Java 15 with async players](https://github.com/codetojoy/WarO_Java_Async)
+    - [Java 15 with Akka framework](https://github.com/codetojoy/WarO_Java_Akka)
+    - [Java 8 in highly functional style](https://github.com/peidevs/WarO_Java)
+    - [Java 8 with Spock tests](https://github.com/codetojoy/WarO_Java_Spock)
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
     - [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
     - [JavaScript with Ramda](https://github.com/codetojoy/WarO_JavaScript_Ramda) 
