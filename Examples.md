@@ -14,8 +14,6 @@
 ### War-O card game exercise
 
 * basic game rules [here](https://github.com/peidevs/WarO_Java/blob/master/Rules.md)
-* [C# in .NET Core](https://github.com/codetojoy/WarO_CSharp)
-    - work-in-progress, and probably not fully idiomatic
 * [COBOL](https://github.com/codetojoy/WarO_COBOL)
     - inspired by uptick re: COVID-19 pandemic
     - very much a 'toy example' and probably not idiomatic
