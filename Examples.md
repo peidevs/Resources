@@ -35,6 +35,7 @@
 * [Ruby](https://github.com/peidevs/WarO_Ruby)
 * [Rust](https://github.com/codetojoy/WarO_Rust)
 * [Scala](https://github.com/peidevs/WarO_Scala)
+* [Scala3](https://github.com/codetojoy/WarO-Scala3)
 
 ### Unique Speakers/Cat-Herders
 
