@@ -17,6 +17,8 @@
 * [COBOL](https://github.com/codetojoy/WarO_COBOL)
     - inspired by uptick re: COVID-19 pandemic
     - very much a 'toy example' and probably not idiomatic
+* [Flutter](https://github.com/codetojoy/waro_flutter)
+    - work-in-progress
 * [Go](https://github.com/codetojoy/WarO_Go)
 * [Groovy](https://github.com/peidevs/WarO_Groovy)
 * Java
