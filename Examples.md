@@ -5,6 +5,8 @@
 * [Official Scooter](https://github.com/peidevs/Scooter)
 * [Scooter Svelte](https://github.com/evanepio/scooter-svelte)
 * [The People's Scooter](https://github.com/peidevs/Event_Resources/tree/master/scooter) in Dojo JS
+* [Scooter Flutter](https://github.com/codetojoy/scooter_flutter) 
+    - work-in-progress
 
 ### Global Day of Code Retreat resources
 
