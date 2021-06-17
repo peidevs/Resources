@@ -22,7 +22,9 @@
 * [Flutter](https://github.com/codetojoy/waro_flutter)
     - work-in-progress
 * [Go](https://github.com/codetojoy/WarO_Go)
-* [Groovy](https://github.com/peidevs/WarO_Groovy)
+* Groovy
+    - legacy [Groovy 2.x](https://github.com/peidevs/WarO_Groovy)
+    - [Groovy 3 with async player](https://github.com/codetojoy/waro-groovy3-async.git)
 * Java
     - [Java 15 with async players](https://github.com/codetojoy/WarO_Java_Async)
     - [Java 15 with Akka framework](https://github.com/codetojoy/WarO_Java_Akka)
