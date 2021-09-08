@@ -1,7 +1,7 @@
 
 ### Summary
 
-An overview for new elders/organizers.
+Hello! Thanks for joining us! Here's an overview for new elders/organizers.
 
 * Slack
     - `#elders` is the main channel, and probably the only locked channel.
