@@ -17,6 +17,13 @@ An overview for new elders/organizers.
 * Google Drive
     - Used for a few private docs, most of which are old and dusty.
     - e.g. Prep for planning meetings, and then notes/action items. 
+* GitHub
+    - [here](https://github.com/orgs/peidevs/repositories)
+    - We have an organization, "peidevs".
+    - The main public facing repos are:
+        - [Event_Resources](https://github.com/peidevs/Event_Resources) for event stuff
+        - [Resources](https://github.com/peidevs/Resources) for public doc
+    - Long ago, we encouraged code projects for collaboration but it never took off.
 * misc:
     - peidevs@gmail.com is public-facing contact
         - Slack reminder to check every Wednesday
@@ -28,4 +35,5 @@ An overview for new elders/organizers.
 * organization
     - Many years ago, a cat-herder would take a 3-month sprint. The cat-herder would find speakers, delegate tasks to volunteers, emcee the event, and be "team captain".
     - We still follow the cat-herder/captain model, but now someone will volunteer "just-in-time" for any given month.
+    - We don't meet in December or July. 
  
