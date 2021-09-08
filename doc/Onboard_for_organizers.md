@@ -12,9 +12,10 @@ An overview for new elders/organizers.
 * web-site
     - [here](https://peidevs.github.io/)
     - A former elder was kind enough to design the website.
-    - We rarely update it, and it's a bit of slog to rediscover the process.
+    - Hosted courtesy of Forestry.io (confirm?) 
+    - We rarely update it.
 * Google Drive
-    - We use this for a few private docs, most of which are old and dusty.
+    - Used for a few private docs, most of which are old and dusty.
     - e.g. Prep for planning meetings, and then notes/action items. 
 * misc:
     - peidevs@gmail.com is used, mostly for Startup Zone
