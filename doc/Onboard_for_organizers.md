@@ -34,6 +34,6 @@ Hello! Thanks for joining us! Here's an overview for new elders/organizers.
     - Ask us as needed and we'll be happy to help.
 * organization
     - Many years ago, a cat-herder would take a 3-month sprint. The cat-herder would find speakers, delegate tasks to volunteers, emcee the event, and be "team captain".
-    - We still follow the cat-herder/captain model, but now someone will volunteer "just-in-time" for any given month.
-    - We don't meet in December or July. 
+    - We still follow the cat-herder model, but now someone will volunteer "just-in-time" for any given month.
+    - Typically, we don't meet in December or July, but sometimes have social events in those months. 
  
