@@ -18,7 +18,7 @@ An overview for new elders/organizers.
     - Used for a few private docs, most of which are old and dusty.
     - e.g. Prep for planning meetings, and then notes/action items. 
 * misc:
-    - peidevs@gmail.com is used, mostly for Startup Zone
+    - peidevs@gmail.com is public-facing contact
         - Slack reminder to check every Wednesday
     - active Twitter account
     - no Facebook page (there was an anemic one, but we killed it)
