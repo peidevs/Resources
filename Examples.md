@@ -22,7 +22,7 @@
 * [Flutter](https://github.com/codetojoy/waro_flutter)
     - work-in-progress
 * [Go](https://github.com/codetojoy/WarO_Go)
-    - REST-ish [strategy API](https://github.com/codetojoy/WarO_Strategy_API_Go)
+    - remote (REST-ish) [strategy API](https://github.com/codetojoy/WarO_Strategy_API_Go)
 * Groovy
     - legacy [Groovy 2.x](https://github.com/peidevs/WarO_Groovy)
     - [Groovy 3 with async player](https://github.com/codetojoy/waro-groovy3-async.git)
