@@ -1,4 +1,10 @@
 
+### Summary
+
+* Some example projects by PEI Devs members.
+* Please add your own! Contact us on Slack.
+* This originated with various versions of a "door-prize raffle" webpage, known as "Scooter".
+
 ### Door-Prize Picker
 
 * [Gonzo](https://github.com/swhalley/Gonzo)(aka Scooter 3.0) - Forked from [peiDevs/Gonzo](https://github.com/peidevs/Gonzo)
