@@ -36,8 +36,11 @@ Hello! Thanks for joining us! Here's an overview for new elders/organizers.
 * organization
     - Many years ago, a cat-herder would take a 3-month sprint. The cat-herder would find speakers, delegate tasks to volunteers, emcee the event, and be "team captain".
     - We still follow the cat-herder model, but now someone will volunteer "just-in-time" for any given month.
-        - we have a handy checklist [here](https://github.com/peidevs/Event_Resources/blob/master/Checklist.md)
+        - We have a handy checklist [here](https://github.com/peidevs/Event_Resources/blob/master/Checklist.md). Most of the items are "lessons learned" over the years.
         - some have tried to automate the above with GitHub issues, but it never took off
         - we have a list of pending talks [here](https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md)
     - Typically, we don't meet in December or July, but sometimes have social events in those months. 
+* Code of Conduct
+    - We've had at least two serious complaints that gave rise to our [Code of Conduct](https://peidevs.github.io/code/). We can explain more in person.
+    - We've never invoked it, since its introduction. 
  
