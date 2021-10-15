@@ -33,9 +33,9 @@
     - legacy [Groovy 2.x](https://github.com/peidevs/WarO_Groovy)
     - [Groovy 3 with async player](https://github.com/codetojoy/waro-groovy3-async.git)
 * Java
+    - [Java 17](https://github.com/codetojoy/WarO_Java_17)
     - [Java 15 with async players](https://github.com/codetojoy/WarO_Java_Async)
     - [Java 15 with Akka framework](https://github.com/codetojoy/WarO_Java_Akka)
-    - [Java 8 in highly functional style](https://github.com/peidevs/WarO_Java)
     - [Java 8 with Spock tests](https://github.com/codetojoy/WarO_Java_Spock)
 * [JavaScript](https://github.com/peidevs/WarO_JavaScript)
     - [JavaScript Angular 1.x](https://github.com/codetojoy/bids_ng1) called "Bids" instead of "War-O"
