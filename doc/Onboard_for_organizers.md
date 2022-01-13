@@ -17,6 +17,7 @@ Hello! Thanks for joining us! Here's an overview for new elders/organizers.
 * Google Drive
     - Used for a few private docs, most of which are old and dusty.
     - e.g. Prep for planning meetings, and then notes/action items. 
+    - note: the team/org for Google Drive folder is actually under DS's account, not `peidevs`
 * GitHub
     - [here](https://github.com/orgs/peidevs/repositories)
     - We have an organization, "peidevs".
@@ -28,6 +29,8 @@ Hello! Thanks for joining us! Here's an overview for new elders/organizers.
 * misc:
     - peidevs@gmail.com is public-facing contact
         - Slack reminder to check every Wednesday
+        - prefer this account over your own for PEI Devs stuff, as it facilitates transfer of tasks/conversations by being a united join-point
+        - logging in for the first time will use ME's cell for 2FA
     - active Twitter account
     - no Facebook page (there was an anemic one, but we killed it)
 * authentication creds:
