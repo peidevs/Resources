@@ -33,6 +33,7 @@
     - legacy [Groovy 2.x](https://github.com/peidevs/WarO_Groovy)
     - [Groovy 3 with async player](https://github.com/codetojoy/waro-groovy3-async.git)
 * Java
+    - [Java 19](https://github.com/codetojoy/WarO_Java_19) (Loom preview)
     - [Java 17](https://github.com/codetojoy/WarO_Java_17)
     - [Java 15 with async players](https://github.com/codetojoy/WarO_Java_Async)
     - [Java 15 with Akka framework](https://github.com/codetojoy/WarO_Java_Akka)
