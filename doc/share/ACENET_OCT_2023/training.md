@@ -1,5 +1,5 @@
 
-The following courses are free:
+The following courses are free from [ACENET](https://ace-net.ca/):
 
 ### Using Git Tools to Manage File Changes and Collaborate: Version Control
 * 21 November, 1300-1630hrs Atlantic / 1330-1700hrs NL
